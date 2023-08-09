@@ -1,0 +1,22 @@
+/*ESTILO PARA A TABELA*/
+
+/*estilo de bordas da tabela*/
+table, td, th{
+    border: solid 2px black
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    font-size: 30px;
+}
+th{
+    font-size: 25px;
+    background-color: rgb(253, 120, 224);
+    color: white;
+}
+/*Estilo de cores da tabela*/
+
+
+/*Estilo de comportamento da tabela*/
